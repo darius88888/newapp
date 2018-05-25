@@ -16,7 +16,7 @@
         android:editable="false"
         android:textAlignment="textEnd"
         android:singleLine="true"
-        android:text="1"
+        android:text="3"
         />
 
     <TableLayout
